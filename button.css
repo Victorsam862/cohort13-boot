@@ -1,0 +1,22 @@
+.custom-bg{
+    background-color: #3b69a5  ;
+    border: #3b69a5 ;
+    color: white;
+}
+.cust-bg{
+    background-color: #1DA1F2 ;
+    border: #1DA1F2 ;
+    color: white;
+}
+.cst{
+    border:  #3b69a5 2px solid;
+}
+.cost{
+    border:  #1DA1F2 2px solid;
+}
+.text{
+    color: #1DA1F2;
+}
+.txt{
+    color: #3b69a5;
+}
